@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 2, 2018
 
 ## Student Name:  
-(First and Last Name)
+Benjamin Landerman
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Develop a website displaying five topics discussed in Lesson 3.
+
+## View Project:
+https://bdl16.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned what version control is and it's uses.
+2. I learned the difference between a local repository and a remote repository.
+3. I learned the basics of using Git.
